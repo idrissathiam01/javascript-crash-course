@@ -1,5 +1,6 @@
-SECTION 2:  How to Manipulate DOM in JavaScript
-===========================================
+## SECTION 2:  How to Manipulate DOM in JavaScript
+***
+
 <em>[http://https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=1100s](Part of Qazi Rafeh's, aka Clever Programmer, JavaScript Crash Course)</em>
 
 Import external script
@@ -18,8 +19,16 @@ Import external script
 (Git Setup Step 4) Stage all local changes
 >	git config --global alias.co checkout
 
-(Git Setup Step 5) Initialize Git (and create repo)
+(Git Setup Step 5) Initialize Git (and create repo locally)
 >	git init
+
+
+Stage files to local Git repo
+>	git add . 
+
+Commit changes locally
+>	git commit -am "Initial commit"
+
 
 (Git Setup Step 6) Create Remote repo (via Github or Bitbucket, etc)
 
@@ -32,17 +41,11 @@ Import external script
 >	ssh -T git@github.com
 
 (Git Setup Step 10) Add remote repo to local Git workflow (via github)
->	git remote add origin git@github.com:idrissathiam01{repo_name}.git
+>	git remote add origin git@github.com:idrissathiam01/{repo_name}.git
 
 (Git Setup Step 11) Push local changes to remote repo
 >	git push -u origin master
 
-
-Stage files to local Git repo
->	git add . 
-
-Commit changes locally
->	git commit -am "Initial commit"
 
 
 

@@ -1,12 +1,14 @@
-#SECTION 1: How to Run Your First Program
+# SECTION 1: How to Run Your First Program
 ***
+
+<em>[http://https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=1100s](Part of Qazi Rafeh's, aka Clever Programmer, JavaScript Crash Course)</em>
 
 **Key Points:**
 -Install VS Code
 -Create HTML5 Boilerplate
 -Create inline JavaScript
 
-##Notes for Flashcards
+## Notes for Flashcards
  
 Emmet Abbreviation for the HTML 5 Boilerplate
 > html:5
@@ -36,7 +38,7 @@ New Terminal Window in VS Code
 > Ctrl + Shift + `
 
 Bring up inspector in Google Chrome
->Ctrl + Shift + I
+> Ctrl + Shift + I
 
-//Declare in-line JavaScript
-<script type = {"text/javascript"}> (Cloze deletion)
+Declare in-line JavaScript
+>	<script type = {"text/javascript"}> (Cloze deletion)
