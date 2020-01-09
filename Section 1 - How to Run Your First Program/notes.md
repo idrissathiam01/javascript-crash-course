@@ -1,7 +1,7 @@
 # SECTION 1: How to Run Your First Program
 ***
 
-[https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=1100s](Part of Qazi Rafeh's, aka Clever Programmer, JavaScript Crash Course)
+<em>[Part of Qazi Rafeh's, aka Clever Programmer, JavaScript Crash Course](https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=1100s)</em>
 
 **Key Points:**
 -Install VS Code

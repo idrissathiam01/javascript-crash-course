@@ -1,7 +1,7 @@
 ## SECTION 2:  How to Manipulate DOM in JavaScript
 ***
 
-[https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=1100s](Part of Qazi Rafeh's, aka Clever Programmer, JavaScript Crash Course)
+<em>[Part of Qazi Rafeh's, aka Clever Programmer, JavaScript Crash Course](https://www.youtube.com/watch?v=Qqx_wzMmFeA&t=1100s)</em>
 
 Import external script
 >	<script type = "text/javascript" {src="javascript.js"} > (Cloze deletion)
